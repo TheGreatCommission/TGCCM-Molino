@@ -1,0 +1,92 @@
+body {
+    background-color: #D3F5FF;
+    color: #006AFF;
+    font-family: Montserrat;
+}
+
+h1 {
+    text-align: center;
+    margin: 2%;
+    font-weight: 700;
+}
+
+p {
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 400;
+    color: #006AFF;
+}
+
+li {
+    color: #006AFF;
+}
+#navbarSupportedContent{
+    text-align: center;
+}
+.dropdown-item {
+    text-align: center;
+}
+nav.navbar {
+    background-color: #006AFF;
+}
+footer {
+    background-color: #006AFF;
+    color: #FFDA83;
+    margin-bottom: 0;
+    padding-bottom:  0;
+}
+.btn {
+    background-color: #FFDA83;
+    color: #006AFF;
+}
+.caro {
+    margin: 1%;
+}
+a {
+    text-decoration: none;
+    color: #FFDA83;
+}
+
+a.connect {
+    text-decoration: none;
+    color: darkblue;
+}
+
+ul.dropdown-menu {
+    background-color: #FFDA83;
+    color: #3C6255;
+}
+a.nav-link {
+    color: #FFDA83;
+    font-weight: 700;
+}
+ul.navbar-nav {
+    margin-right: 5%;
+}
+p.accordion-content {
+    color: #004C74;
+}
+
+ul li.socmed {
+    padding: 1%;
+    margin-top: 2%;
+}
+div.card-about {
+    padding: 2%;
+    margin: 1%;
+} 
+
+div.pastor {
+    background-color: #FFDA83;
+}
+nav.navbar-min {
+    background-color: #006AFF;
+    color: #FFDA83;
+}
+
+a.navbar-brand {
+    color: #FFDA83;
+}
